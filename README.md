@@ -4,7 +4,8 @@ paper http://arxiv.org/abs/2202.10032
 
 
 
-![image-20220223145129845](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220223145129845.png)
+![image](https://user-images.githubusercontent.com/33895584/155280272-a2e177c1-c31a-4187-8bc0-bf6c8bcdb2b3.png)
+
 
 
 
